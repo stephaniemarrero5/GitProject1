@@ -11,7 +11,7 @@ public class DemoDay2 {
 	//add method
 	public static void add(int a, int b) {
 			
-		System.out.println(a + b);
+		System.out.println(a+b);
 		
 	}
 	
@@ -19,9 +19,15 @@ public class DemoDay2 {
 	//subtract
 	public static void subtract(int a, int b) {
 		
-		System.out.println(a - b);
+		System.out.println(a-b);
 		
 	}
-	
+
+	//divide
+	public static void divide(int a, int b) {
+		
+		System.out.println(a/b);
+		
+	}
 	
 }
